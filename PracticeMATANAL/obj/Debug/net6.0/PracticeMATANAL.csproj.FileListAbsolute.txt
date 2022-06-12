@@ -1,0 +1,15 @@
+C:\Users\Комп\YandexDisk\My C#\PracticeMATANAL\bin\Debug\net6.0\PracticeMATANAL.exe
+C:\Users\Комп\YandexDisk\My C#\PracticeMATANAL\bin\Debug\net6.0\PracticeMATANAL.deps.json
+C:\Users\Комп\YandexDisk\My C#\PracticeMATANAL\bin\Debug\net6.0\PracticeMATANAL.runtimeconfig.json
+C:\Users\Комп\YandexDisk\My C#\PracticeMATANAL\bin\Debug\net6.0\PracticeMATANAL.dll
+C:\Users\Комп\YandexDisk\My C#\PracticeMATANAL\bin\Debug\net6.0\PracticeMATANAL.pdb
+C:\Users\Комп\YandexDisk\My C#\PracticeMATANAL\obj\Debug\net6.0\PracticeMATANAL.csproj.AssemblyReference.cache
+C:\Users\Комп\YandexDisk\My C#\PracticeMATANAL\obj\Debug\net6.0\PracticeMATANAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Комп\YandexDisk\My C#\PracticeMATANAL\obj\Debug\net6.0\PracticeMATANAL.AssemblyInfoInputs.cache
+C:\Users\Комп\YandexDisk\My C#\PracticeMATANAL\obj\Debug\net6.0\PracticeMATANAL.AssemblyInfo.cs
+C:\Users\Комп\YandexDisk\My C#\PracticeMATANAL\obj\Debug\net6.0\PracticeMATANAL.csproj.CoreCompileInputs.cache
+C:\Users\Комп\YandexDisk\My C#\PracticeMATANAL\obj\Debug\net6.0\PracticeMATANAL.dll
+C:\Users\Комп\YandexDisk\My C#\PracticeMATANAL\obj\Debug\net6.0\refint\PracticeMATANAL.dll
+C:\Users\Комп\YandexDisk\My C#\PracticeMATANAL\obj\Debug\net6.0\PracticeMATANAL.pdb
+C:\Users\Комп\YandexDisk\My C#\PracticeMATANAL\obj\Debug\net6.0\PracticeMATANAL.genruntimeconfig.cache
+C:\Users\Комп\YandexDisk\My C#\PracticeMATANAL\obj\Debug\net6.0\ref\PracticeMATANAL.dll
